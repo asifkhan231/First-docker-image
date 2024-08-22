@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": " nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  },
+  "name": "dockerfile",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
